@@ -1,6 +1,6 @@
-# Crypto-Bazar
+# Crypto-zone
 
-Crypto-Bazar is a cryptocurrency learning and visualization platform that provides users with real-time information about various cryptocurrencies, their market trends, and educational resources.
+Crypto-zone is a cryptocurrency learning and visualization platform that provides users with real-time information about various cryptocurrencies, their market trends, and educational resources.
 
 ## Features
 
