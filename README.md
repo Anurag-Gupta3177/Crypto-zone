@@ -37,8 +37,8 @@ Crypto-zone is a cryptocurrency learning and visualization platform that provide
 
 1. Clone the repository:
   ```bash
-       git clone https://github.com/priyanshu-gupta07/crypto-bazar.git
-       cd crypto-bazar
+       git clone https://github.com/Anurag-Gupta3177/Crypto-zone
+       cd crypto-zone
 ```   
 2. Install server dependencies:
 ```bash
@@ -70,14 +70,14 @@ The application should now be running on http://localhost:3000.
 
 ## Project Structure
 
-- /Client/crypto-bazar: Contains the React frontend application
+- /Client/crypto-zone: Contains the React frontend application
 - /Server: Contains the Node.js backend application
 
 ### Key Files
 
-- Client/crypto-bazar/src/App.js: Main React component and routing setup
-- Client/crypto-bazar/src/pages: React components for different pages
-- Client/crypto-bazar/src/components: Reusable React components
+- Client/crypto-zone/src/App.js: Main React component and routing setup
+- Client/crypto-zone/src/pages: React components for different pages
+- Client/crypto-zone/src/components: Reusable React components
 - Server/index.js: Entry point for the backend server
 - Server/controllers: Backend route handlers
 - Server/models: MongoDB schema definitions
